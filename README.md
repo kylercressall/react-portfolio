@@ -1,2 +1,2 @@
-# Kyler Cresall React Portfolio Applicatoin
+# Kyler Cresall React Portfolio Application
 
